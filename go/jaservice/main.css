@@ -8,7 +8,7 @@ a:hover {text-decoration:underline;}
 
 h1  {
 	color: #222222;
-	text-align: justify;
+	text-align: left;
 	letter-spacing: -0.05em;
 	font: bold 72px/96px Arial, Helvetica, sans-serif;
 }
