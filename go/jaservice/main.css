@@ -3,14 +3,14 @@ body  {
 	background-color: #FFFFFF;
 }
 
-a:link, a:visited  {color: #AAAAAA; text-decoration:none;}
+a:link, a:visited  {color: ##4287f5; text-decoration:none;}
 a:hover {text-decoration:underline;}
 
 h1  {
 	color: #222222;
 	text-align: justify;
 	letter-spacing: -0.05em;
-	font: bold 140px/130px Arial, Helvetica, sans-serif;
+	font: bold 72px/96px Arial, Helvetica, sans-serif;
 }
 h1 a:link, h1 a:visited { color: #222222; text-decoration: none; }
 h1 a:hover {text-decoration: underline;}
